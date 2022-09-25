@@ -13,4 +13,4 @@ list = []
 for i in range(1, num + 1):
     list.append(newNum(i))
 print(list)
-print(f"Сумма элементов постедовательности равна: {sum(list)}")
+print(f"Сумма элементов последовательности равна: {sum(list)}")
